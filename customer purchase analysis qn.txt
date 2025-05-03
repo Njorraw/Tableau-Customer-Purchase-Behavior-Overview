@@ -1,0 +1,2 @@
+Create a dashboard that analyzes customer purchase patterns — frequency, spending, and category preferences — to support marketing strategy.
+

@@ -1,0 +1,101 @@
+Customer ID,Name,Gender,Age,Purchase Date,Product Category,Product,Quantity,Unit Price,Total Spend
+C100,Kelly Taylor,Female,33,2024-02-08,Fashion,Shoes,1,4667,4667
+C101,Nicole Welch,Male,55,2024-02-26,Beauty,Lipstick,1,967,967
+C102,Anna Quinn,Male,32,2024-02-09,Home Decor,Lamp,5,1828,9140
+C103,Erica Wilson,Female,32,2024-03-19,Beauty,Lotion,1,1507,1507
+C104,William Lloyd,Female,39,2024-01-12,Groceries,Milk (1L),2,2957,5914
+C105,Zachary Burch Jr.,Male,23,2024-03-21,Beauty,Lipstick,3,3017,9051
+C106,Sylvia Short,Female,20,2024-01-31,Beauty,Lipstick,4,845,3380
+C107,Dawn Reyes,Female,58,2024-02-10,Home Decor,Cushion,5,1775,8875
+C108,Michelle Smith,Male,20,2024-02-18,Fashion,Jacket,1,2107,2107
+C109,Kimberly Contreras,Male,42,2024-03-18,Groceries,Vegetables,3,1532,4596
+C110,Jasmine Perez,Female,40,2024-01-31,Fashion,Jacket,1,1601,1601
+C111,Ashley Meza,Male,28,2024-01-29,Beauty,Eyeliner,3,4762,14286
+C112,Christina Wilson,Male,38,2024-01-13,Electronics,Smartphone,1,2784,2784
+C113,James Stewart,Female,35,2024-01-30,Electronics,Smartphone,5,2777,13885
+C114,David Brock,Male,59,2024-02-23,Beauty,Eyeliner,4,1370,5480
+C115,Mark Hall,Female,26,2024-01-28,Fashion,Jacket,5,3709,18545
+C116,Timothy Gonzalez,Female,41,2024-01-21,Fashion,Shoes,5,4242,21210
+C117,John Anderson,Male,21,2024-03-23,Electronics,Smartphone,2,3658,7316
+C118,Joseph Reyes,Male,42,2024-03-23,Beauty,Eyeliner,5,2259,11295
+C119,Paul Brooks,Male,25,2024-02-06,Home Decor,Cushion,3,1113,3339
+C120,Juan Moody,Female,45,2024-01-31,Fashion,Jeans,1,2357,2357
+C121,Anne Johnston,Male,50,2024-02-10,Electronics,Laptop,5,1829,9145
+C122,Troy Mejia,Male,41,2024-03-26,Fashion,T-Shirt,5,2855,14275
+C123,Sheila Hodges,Female,19,2024-03-26,Electronics,Laptop,3,2161,6483
+C124,Brandon Lopez,Male,33,2024-03-06,Home Decor,Lamp,1,4181,4181
+C125,Michele Reyes,Male,52,2024-02-02,Fashion,Shoes,4,4703,18812
+C126,Emily Adams,Male,34,2024-01-18,Home Decor,Wall Art,2,4617,9234
+C127,Mr. John Mcdonald,Male,37,2024-01-24,Beauty,Lotion,4,4439,17756
+C128,Laura Salinas,Female,25,2024-03-26,Fashion,Shoes,1,2969,2969
+C129,Jenny Thompson,Male,55,2024-03-19,Home Decor,Curtains,5,2004,10020
+C130,Tracey Clark,Male,22,2024-02-11,Electronics,Smartphone,1,457,457
+C131,Tracy Sandoval,Female,22,2024-02-01,Home Decor,Curtains,3,4176,12528
+C132,Nichole King,Male,52,2024-02-03,Fashion,Jeans,2,4074,8148
+C133,Nicholas Sanford,Female,30,2024-02-17,Electronics,Headphones,4,3102,12408
+C134,Monique West,Female,44,2024-02-17,Beauty,Lipstick,1,696,696
+C135,Ashley Wilson,Female,39,2024-01-08,Electronics,Smartphone,2,1758,3516
+C136,Susan Strong,Female,26,2024-02-01,Beauty,Perfume,3,3989,11967
+C137,Michael Lopez,Male,22,2024-03-07,Beauty,Lipstick,1,4628,4628
+C138,Angela Hall,Male,23,2024-01-11,Fashion,Shoes,4,4178,16712
+C139,Mitchell Cannon PhD,Female,31,2024-02-21,Beauty,Lipstick,2,3304,6608
+C140,Paula Petty,Male,42,2024-01-29,Groceries,Vegetables,3,3665,10995
+C141,Crystal Jackson,Female,27,2024-03-22,Fashion,Jacket,2,679,1358
+C142,Samantha Perez,Male,38,2024-03-20,Electronics,Headphones,5,4105,20525
+C143,Jamie Sanchez,Male,21,2024-01-03,Home Decor,Lamp,2,761,1522
+C144,Kendra Carpenter,Male,33,2024-02-06,Beauty,Lipstick,5,2216,11080
+C145,Claire Allen,Male,57,2024-03-15,Electronics,Smartwatch,5,4830,24150
+C146,Andrea Sanchez,Female,34,2024-01-24,Fashion,Jacket,2,2375,4750
+C147,Miss Bailey Taylor,Female,26,2024-02-27,Groceries,Vegetables,3,794,2382
+C148,John Williams,Male,47,2024-01-28,Home Decor,Lamp,1,4604,4604
+C149,Ashley Brooks,Male,50,2024-01-10,Groceries,Milk (1L),3,763,2289
+C150,Chelsea Salazar,Male,41,2024-01-06,Groceries,Milk (1L),4,4650,18600
+C151,Linda Romero,Female,57,2024-02-20,Home Decor,Lamp,5,2652,13260
+C152,William Smith,Male,26,2024-01-24,Groceries,Rice (5kg),1,4732,4732
+C153,Michelle Wilson,Male,35,2024-01-03,Groceries,Milk (1L),3,1867,5601
+C154,Alexander Vaughn,Female,50,2024-02-23,Beauty,Lotion,1,956,956
+C155,Kristin Lawson,Female,35,2024-03-17,Electronics,Headphones,3,1271,3813
+C156,Gabriel Horne,Female,28,2024-03-19,Beauty,Eyeliner,5,279,1395
+C157,David Harmon,Male,22,2024-02-04,Fashion,T-Shirt,3,4971,14913
+C158,Madison White,Male,45,2024-02-23,Fashion,T-Shirt,3,3187,9561
+C159,Lorraine Preston,Male,40,2024-01-14,Fashion,Shoes,1,3097,3097
+C160,Tamara Schneider,Female,57,2024-01-27,Fashion,Shoes,2,1650,3300
+C161,Christine Bolton,Female,19,2024-01-11,Fashion,Jacket,4,2232,8928
+C162,Thomas Nunez,Female,28,2024-03-01,Electronics,Smartwatch,1,4055,4055
+C163,Heather Malone DDS,Male,30,2024-03-20,Beauty,Lotion,3,2064,6192
+C164,Sarah Allen,Male,19,2024-02-17,Fashion,Jeans,3,2482,7446
+C165,Amy Harris,Male,35,2024-03-05,Groceries,Vegetables,5,2912,14560
+C166,Carl Wright,Male,25,2024-01-22,Groceries,Milk (1L),5,2374,11870
+C167,Jessica Jordan,Male,24,2024-03-05,Home Decor,Wall Art,3,2769,8307
+C168,Travis Lee,Female,56,2024-03-18,Home Decor,Lamp,4,4923,19692
+C169,Matthew Walker,Male,34,2024-01-23,Electronics,Smartwatch,1,4459,4459
+C170,Stephanie Davis,Male,41,2024-03-05,Beauty,Lipstick,3,2771,8313
+C171,Jose Frank,Male,37,2024-01-14,Home Decor,Cushion,4,2872,11488
+C172,Kathleen Lane,Female,36,2024-03-16,Home Decor,Curtains,2,3644,7288
+C173,Devin Wise,Female,29,2024-02-15,Home Decor,Cushion,4,4688,18752
+C174,Kelly Woods,Male,37,2024-01-30,Groceries,Milk (1L),4,4951,19804
+C175,Michael Murray,Female,47,2024-03-20,Beauty,Eyeliner,2,4387,8774
+C176,Robin Kelly,Female,28,2024-02-03,Electronics,Laptop,5,2945,14725
+C177,Brianna Shepard,Male,33,2024-01-10,Groceries,Milk (1L),2,1407,2814
+C178,Marc Daniels,Male,20,2024-02-10,Fashion,Jeans,5,796,3980
+C179,William Ferguson,Female,44,2024-02-16,Home Decor,Curtains,4,4249,16996
+C180,Kara Cantu,Female,33,2024-01-21,Fashion,T-Shirt,1,3682,3682
+C181,William Williams,Male,29,2024-02-17,Home Decor,Wall Art,1,4766,4766
+C182,Krystal Luna,Male,25,2024-01-10,Beauty,Perfume,4,4551,18204
+C183,Kim Calderon,Female,46,2024-02-01,Home Decor,Wall Art,5,3852,19260
+C184,Eileen Cruz,Male,48,2024-02-03,Beauty,Lotion,2,2471,4942
+C185,Tamara Scott,Female,58,2024-02-12,Fashion,Jacket,4,834,3336
+C186,Christopher Brewer,Female,33,2024-03-18,Groceries,Bread,3,4624,13872
+C187,Derek Robinson,Male,26,2024-03-03,Fashion,Shoes,4,1451,5804
+C188,Janet Perez,Male,22,2024-03-15,Beauty,Eyeliner,3,4645,13935
+C189,Rose Lawrence,Female,44,2024-03-18,Electronics,Smartphone,4,3390,13560
+C190,Kevin Neal,Male,54,2024-02-26,Beauty,Eyeliner,1,3081,3081
+C191,Kimberly Morgan,Female,42,2024-02-20,Beauty,Perfume,4,1997,7988
+C192,Michael Holmes,Female,45,2024-02-22,Beauty,Lipstick,4,2953,11812
+C193,Sandra Garcia,Female,28,2024-01-19,Beauty,Perfume,5,4575,22875
+C194,Martin Santos,Male,43,2024-02-15,Home Decor,Lamp,1,3711,3711
+C195,Scott Mitchell,Male,47,2024-03-06,Fashion,T-Shirt,3,3305,9915
+C196,Kevin Bowers,Female,31,2024-01-27,Beauty,Lotion,3,3305,9915
+C197,Sylvia Watkins,Female,44,2024-01-22,Groceries,Rice (5kg),4,358,1432
+C198,Daniel Martinez,Male,40,2024-03-02,Fashion,T-Shirt,1,454,454
+C199,Brittany Booker,Male,30,2024-01-03,Electronics,Smartphone,2,1234,2468
